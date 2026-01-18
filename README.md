@@ -92,7 +92,7 @@ python main.py
 ```
 
 ---
-**Desarrollador:** [Edwin Aliaga Yujra](https://www.linkedin.com/in/edwin-aliaga-yujra)
-**Institución:** Universidad Mayor de San Andrés (UMSA)
-**Materia:** Inteligencia Artificial (Proyecto Final)
-**Contexto:** Aplicación de modelos predictivos y análisis de datos para la resolución de problemáticas académicas.
+* **Desarrollador:** [Edwin Aliaga Yujra](https://www.linkedin.com/in/edwin-aliaga-yujra)
+* **Institución:** Universidad Mayor de San Andrés (UMSA)
+* **Materia:** Inteligencia Artificial (Proyecto Final)
+* **Contexto:** Aplicación de modelos predictivos y análisis de datos para la resolución de problemáticas académicas.
